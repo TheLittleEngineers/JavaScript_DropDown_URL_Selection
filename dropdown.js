@@ -1,5 +1,5 @@
 /*
-This code resides at: "http://www.TheLittleEngineers.org/files/js/dropdown.js". This code was originally written in 1996 as part of the
+This code resides at: "http://www.TheLittleEngineers.org/js/dropdown.js". This code was originally written in 1996 as part of the
 Binary Systems of Alabama Website. The code remained "lost" for a couple of decades, until found on an old 20MB Seagate MFM hard drive
 that had been used with a Tandy Radio Shack TRS-80 Color Computer 3 and the Burke & Burke CoCo XT-RTC interface. Back then, I used the
 Color Computer 3 and Telewriter-128 to code my webpages, mainly for the sake of nostalgia. I then transferred them via RS232 serial with
@@ -9,7 +9,7 @@ a null modem cable to my WinTel machine for further processing. This code is bei
 
 Example usage:
 Place the following within the <head></head> tags:
-<script src="http://www.TheLittleEngineers.org/files/js/dropdown.js"></script>
+<script src="http://www.TheLittleEngineers.org/js/dropdown.js"></script>
 Use the following code to call the function:
 <center>
 	<font font="" size="+2" color="#FFFFFF">Fellow Traveller - Where Would You Like To Visit?</font>
